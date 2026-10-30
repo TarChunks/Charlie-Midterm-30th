@@ -14,3 +14,4 @@ I decided to make the offset shader toggleable. If you touch the lava, it lights
 Part 6:\
 The Basic shader was used for 2 different materials, one for the ground, the other for the bridge.\
 Part 7:\
+Customer shader was transparent and attacked to the horn attack (press enter to spawn the transparent horns)\
